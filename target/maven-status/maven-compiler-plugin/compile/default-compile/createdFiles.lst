@@ -1,0 +1,7 @@
+com\crud\repositories\ProductRepository.class
+com\crud\controllers\action\ProductAction.class
+com\crud\services\ProductService.class
+com\crud\entities\Product.class
+com\crud\repositories\ProductRepositoryImpl.class
+com\crud\config\AppConfig.class
+com\crud\services\ProductServiceImpl.class
